@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to eazybanks accounts related PROD APIs"
+  contactDetails:
+    name: "Anurag Singh - Product Owner"
+    email: "anuragsingh@eazybank.com"
+  onCallSupport:
+    -(111) 555-1234
+    -(111) 523-1233

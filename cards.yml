@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Nishant Rastogi - Developer"
+    email: "guddu@eazybank.com"
+  onCallSupport:
+    - (444) 493-535
+    - (444) 864-455
